@@ -33,6 +33,7 @@ class Entity(object):
         #    columns, parents, children or siblings and call corresponding
         #    getter with name as an argument
         # throw an exception, if attribute is unrecognized
+        # sfds
         pass
 
     def __setattr__(self, name, value):
